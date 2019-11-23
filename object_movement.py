@@ -11,9 +11,6 @@ import cv2
 import imutils
 import time
 import os
-## -------------------
-
-print ("ffffff")
 
 os.environ["QT_AUTO_SCREEN_SCALE_FACTOR"] = "1"
 # construct the argument parse and parse the arguments
